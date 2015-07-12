@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SC
+        psr4_prefix: SC
+        src_path: app
